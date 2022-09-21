@@ -1,4 +1,4 @@
-# MCBOXPLAYhtml
+# HOME
 <html>
 	<head>
 		<title>MCBOXPLAY</title>
