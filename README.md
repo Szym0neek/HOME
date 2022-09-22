@@ -15,5 +15,11 @@
 </a>
 
 
+
+<central><a href="https://szym0neek.github.io/BOXPVP/" target="_blank">
+<p><img src="BOXPVP SKIN.png" width="200"></p>
+</a></central>
+
+
 	</body>
 </html>
