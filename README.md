@@ -10,7 +10,7 @@
 
 
 <br>
-<a href="https://szym0neek.github.io/BOXPVP/" target="_blank">
+<a href="https://wwwstrona.github.io/BOXPVP/" target="_blank">
 <p><img src="BOXPVP SKIN.png" width="200"></p>
 </a>
 
